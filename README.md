@@ -34,9 +34,12 @@ To use this component in your React project, follow these steps:
 
 4. **Add required assets**:
 
+     ```bash
      Make sure to add the required assets to your project's public/assets
 
 5. **Start the Development Server**:
+   
+     This will start the development server, and you can view the app in your browser at http://localhost:3000 or the port specified by your environment.
 
      ```bash
      npm run dev
