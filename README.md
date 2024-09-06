@@ -34,4 +34,9 @@ To use this component in your React project, follow these steps:
 
 4. **Add required assets**:
 
-  Make sure to add the required assets to your project's public/assets
+     Make sure to add the required assets to your project's public/assets
+
+5. **Start the Development Server**:
+
+     ```bash
+     npm run dev
