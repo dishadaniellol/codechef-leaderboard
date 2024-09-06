@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codechef-leaderboard/static/css/main.30b83357.css",
+    "main.js": "/codechef-leaderboard/static/js/main.223daaf9.js",
+    "index.html": "/codechef-leaderboard/index.html",
+    "main.30b83357.css.map": "/codechef-leaderboard/static/css/main.30b83357.css.map",
+    "main.223daaf9.js.map": "/codechef-leaderboard/static/js/main.223daaf9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30b83357.css",
+    "static/js/main.223daaf9.js"
+  ]
+}
