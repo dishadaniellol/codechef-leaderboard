@@ -24,13 +24,13 @@ To use this component in your React project, follow these steps:
 
 2. **Navigate to the Project Directory**:
 
-  ```bash
-  cd codechef-leaderboard
+     ```bash
+     cd codechef-leaderboard
 
 3. **Install Dependencies**:
 
-  ```bash
-  npm install
+     ```bash
+     npm install
 
 4. **Add required assets**:
 
